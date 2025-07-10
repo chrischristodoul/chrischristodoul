@@ -49,6 +49,10 @@ I am dedicated to continuously upgrading my knowledge and skills to keep pace wi
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Gnu-prolog-icon.png" alt="GNU Prolog" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/RISC-V_Logo.svg" alt="RISC-V" width="40" height="40"/>
   <img src="https://ros.org/wp-content/uploads/2020/06/Ros_Logo.svg" alt="ROS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Unity_2021.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/OpenGL_Logo.svg" alt="OpenGL" width="40" height="40"/>
 </p>
 
 
