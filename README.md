@@ -15,41 +15,42 @@ I am dedicated to continuously upgrading my knowledge and skills to keep pace wi
 
 ### Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4B26?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prolog-2F5181?style=for-the-badge&logo=prolog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-9B3E1F?style=for-the-badge&logo=verilog&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Assembly_language_logo.svg" alt="Assembly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Prolog_logo.svg" alt="Prolog" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/VHDL_Logo.svg" alt="VHDL" width="40" height="40"/>
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <!-- Πρόσθεσε τα frameworks που χρησιμοποιείς εδώ -->
+  <!-- Πρόσθεσε εδώ τα logos των frameworks -->
   <em>Coming soon...</em>
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Quartus-F80000?style=for-the-badge&logo=quartus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WinHugs-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GNU_Prolog-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RISC-V-000000?style=for-the-badge&logo=risc-v&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-339933?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL Workbench" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" alt="Notepad++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Quartus_II_Logo.svg" alt="Quartus" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/WinHugs_icon.png" alt="WinHugs" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Gnu-prolog-icon.png" alt="GNU Prolog" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/RISC-V_Logo.svg" alt="RISC-V" width="40" height="40"/>
+  <img src="https://ros.org/wp-content/uploads/2020/06/Ros_Logo.svg" alt="ROS" width="40" height="40"/>
 </p>
+
 
 
 ---
