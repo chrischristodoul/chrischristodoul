@@ -10,7 +10,6 @@ My passion lies in **software development, data mining, and coding** — both as
 I am dedicated to continuously upgrading my knowledge and skills to keep pace with the latest industry developments while building a strong professional portfolio.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -22,38 +21,59 @@ I am dedicated to continuously upgrading my knowledge and skills to keep pace wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Assembly_language_logo.svg" alt="Assembly" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Prolog_logo.svg" alt="Prolog" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/VHDL_Logo.svg" alt="VHDL" width="40" height="40"/>
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <!-- Πρόσθεσε εδώ τα logos των frameworks -->
-  <em>Coming soon...</em>
+  
+  <!-- Text badges for languages without good logos -->
+  <span style="display:inline-block; background:#6E4B26; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    Assembly
+  </span>
+  <span style="display:inline-block; background:#9B3E1F; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    VHDL
+  </span>
+  <span style="display:inline-block; background:#2F5181; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    Prolog
+  </span>
 </p>
 
 ### Tools & Platforms
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL Workbench" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" alt="Notepad++" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Quartus_II_Logo.svg" alt="Quartus" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/WinHugs_icon.png" alt="WinHugs" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Gnu-prolog-icon.png" alt="GNU Prolog" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/RISC-V_Logo.svg" alt="RISC-V" width="40" height="40"/>
-  <img src="https://ros.org/wp-content/uploads/2020/06/Ros_Logo.svg" alt="ROS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Unity_2021.svg" alt="Unity" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/OpenGL_Logo.svg" alt="OpenGL" width="40" height="40"/>
+  
+  <!-- Text badges for tools without good logos -->
+  <span style="display:inline-block; background:#90E59A; color:#000; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    Notepad++
+  </span>
+  <span style="display:inline-block; background:#F44336; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    Quartus
+  </span>
+  <span style="display:inline-block; background:#1E90FF; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    WinHugs
+  </span>
+  <span style="display:inline-block; background:#007ACC; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    GNU Prolog
+  </span>
+  <span style="display:inline-block; background:#000; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    RISC-V
+  </span>
+  <span style="display:inline-block; background:#339933; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    ROS
+  </span>
+  <span style="display:inline-block; background:#000; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    Unity
+  </span>
+  <span style="display:inline-block; background:#0D5EAF; color:#fff; font-weight:bold; padding:6px 10px; border-radius:6px; font-family:sans-serif; font-size:0.9rem; margin-left:5px; height:40px; line-height:28px;">
+    OpenGL
+  </span>
 </p>
+
 
 
 
