@@ -8,12 +8,11 @@
 <img src="https://img.shields.io/badge/Software%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa"/>
 <img src="https://img.shields.io/badge/Data%20Mining%20Enthusiast-302b63?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%26%20Algorithms-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lifelong%20Learner-24243e?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chrischristodoul&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://www.linkedin.com/in/christos-christodoulou-445b93217/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
