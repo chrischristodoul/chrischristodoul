@@ -52,9 +52,6 @@ me.say_hi()
 ---
 
 
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
@@ -86,6 +83,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 </p>
 
 
