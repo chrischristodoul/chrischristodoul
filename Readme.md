@@ -36,13 +36,10 @@ class Christos:
         self.degree = "Computer Science & Engineering"
         self.interests = [
             "Software Development",
-            "Data Mining",
+            "Robotics",
             "Algorithms",
             "Artificial Intelligence"
         ]
-
-    def current_focus(self):
-        return ["React", "TypeScript", "FastAPI", "Clean Architecture"]
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great together 🚀")
