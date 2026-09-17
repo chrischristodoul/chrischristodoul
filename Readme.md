@@ -6,7 +6,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Software%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/Data%20Mining%20Enthusiast-302b63?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robotics%20Enthusiast-302b63?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20%26%20Algorithms-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
 
 
